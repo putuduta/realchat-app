@@ -1,9 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export default class Chat extends Component {
-    render() {
-        return (
-            <h1> Chat </h1>
-        )
-    }
+
+const Chat = () => {
+    return (
+        <h1> Chat </h1>
+    )
 }
+
+export default Chat;
