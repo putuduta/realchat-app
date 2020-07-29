@@ -17,7 +17,7 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
-    height: 100vh;
+    height: 84.9%;
     align-items: center;
     background-color: #848ccf;
 }
@@ -43,7 +43,7 @@ body {
     color: #fff !important;
     text-transform: uppercase;
     text-decoration: none;
-    background: #2979FF;
+    background: #394989;
     padding: 20px;
     border-radius: 5px;
     display: inline-block;
